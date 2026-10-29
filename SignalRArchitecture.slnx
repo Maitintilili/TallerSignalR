@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/SignalR.hub/">
+    <Project Path="SignalR.hub/SignalR.Hub.csproj" />
+  </Folder>
+  <Project Path="SignalR.Client/SignalR.Client.csproj" />
+  <Project Path="SignalR.Shared/SignalR.Shared.csproj" />
+</Solution>

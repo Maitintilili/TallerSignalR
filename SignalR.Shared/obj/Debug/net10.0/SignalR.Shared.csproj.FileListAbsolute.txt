@@ -1,0 +1,11 @@
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.deps.json
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.dll
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\bin\Debug\net10.0\SignalR.Shared.pdb
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.AssemblyInfoInputs.cache
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.AssemblyInfo.cs
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.csproj.CoreCompileInputs.cache
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.dll
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\refint\SignalR.Shared.dll
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\SignalR.Shared.pdb
+C:\Programacion\EnelP4\SignalArchitecture\SignalR.Shared\obj\Debug\net10.0\ref\SignalR.Shared.dll
