@@ -1,4 +1,11 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+"use strict";
 
-// Write your JavaScript code.
+// Barra superior: muestra el usuario y el botón de cerrar sesión
+(function () {
+    const box = document.getElementById("navUserBox");
+    if (!box || !Auth.isLoggedIn()) return;
+
+    document.getElementById("navUserName").textContent = Auth.user;
+    box.classList.remove("d-none");
+    document.getElementById("logoutBtn").addEventListener("click", () => Auth.logout());
+})();
